@@ -2,7 +2,7 @@
 Refer This To Know More About The Project
 
 
-or
+OR
 
 
 
