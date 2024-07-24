@@ -153,9 +153,3 @@ This rich dataset allows for detailed analysis and visualization, providing insi
 
 Feel free to explore each Power BI file and dataset to see how I've utilized this data to create insightful and visually appealing dashboards.
 
-
-OR
-
-
-Refer [README.pdf](README.pdf) file that has been uploaded in this Power_BI repository.
-
